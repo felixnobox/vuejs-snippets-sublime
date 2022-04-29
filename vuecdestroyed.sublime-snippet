@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+destroyed () {
+
+}${3}
+]]></content>
+  <tabTrigger>vuecdestroyed</tabTrigger>
+  <scope>source.js.embedded.html</scope>
+  <description>Vue component destroyed</description>
+</snippet>
