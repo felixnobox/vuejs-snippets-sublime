@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+created () {
+
+}${3}
+]]></content>
+  <tabTrigger>vueccreated</tabTrigger>
+  <scope>source.js.embedded.html</scope>
+  <description>Vue component created</description>
+</snippet>
