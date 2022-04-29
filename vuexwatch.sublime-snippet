@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+name: this.\$store.watch(() => this.\store.getters.name, () => {
+
+}),
+]]></content>
+  <tabTrigger>vuexwatch</tabTrigger>
+  <scope>source.js.embedded.html</scope>
+  <description>Vuex watcher</description>
+</snippet>
