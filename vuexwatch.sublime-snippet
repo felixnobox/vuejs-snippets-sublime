@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-name: this.\$store.watch(() => this.\store.getters.name, () => {
+name: this.\$store.watch(() => this.\$store.getters.name, () => {
 
 }),
 ]]></content>
